@@ -21,6 +21,10 @@
 
 ---
 
+🚀 **Live Deployment:** [https://macros-nutrition.netlify.app/](https://macros-nutrition.netlify.app/)
+
+---
+
 ## 📖 Table of Contents
 1. [🏢 What This Business Is](#-what-this-business-is)
 2. [✨ Key Product Features](#-key-product-features)
