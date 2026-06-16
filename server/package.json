@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "start": "node server.js",
-    "dev": "nodemon server.js",
+    "dev": "nodemon --watch server.js --watch routes --watch models --watch middleware --watch utils server.js",
     "seed": "node seeder.js"
   },
   "dependencies": {

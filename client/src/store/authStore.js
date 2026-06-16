@@ -30,7 +30,9 @@ export const useAuthStore = create((set, get) => ({
       set({ user: userData, token, loading: false });
       return { success: true };
     } catch (err) {
-      const msg = err.response?.data?.message || err.response?.data?.errors?.[0]?.msg || 'Registration failed';
+      const msg = err.response
+        ? err.response.data?.message || err.response.data?.errors?.[0]?.msg || 'Registration failed'
+        : 'Cannot reach the server. Please start the backend and try again.';
       set({ error: msg, loading: false });
       return { success: false, message: msg };
     }
