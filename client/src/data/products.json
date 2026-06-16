@@ -1,0 +1,292 @@
+[
+  {
+    "id": 1,
+    "name": "Macros Nutrition BCAA",
+    "flavor": "Watermelon",
+    "image": "macros_nutrition_BCAA_watermelon.png",
+    "description": "Support muscle recovery and reduce workout fatigue with our premium BCAA formula. Packed with essential amino acids to help preserve lean muscle mass. Refreshing watermelon flavor makes every serving enjoyable and effective.",
+    "mrp": 1499,
+    "price": 1199,
+    "category": "Supplements"
+  },
+  {
+    "id": 2,
+    "name": "Macros Nutrition Creatine Monohydrate",
+    "flavor": "Unflavored",
+    "image": "macros_nutrition_creatine.png",
+    "description": "Boost strength, power, and athletic performance with pure micronized creatine. Designed to support muscle growth and improve workout intensity. Mixes easily and works perfectly with your daily fitness routine.",
+    "mrp": 1299,
+    "price": 999,
+    "category": "Supplements"
+  },
+  {
+    "id": 3,
+    "name": "Macros Nutrition Electrolytes",
+    "flavor": "Orange",
+    "image": "macros_nutrition_electrolytes_orange.png",
+    "description": "Stay hydrated during intense workouts and daily activities. Replenishes essential minerals lost through sweat and physical exertion. Delivers a refreshing orange taste while supporting optimal performance.",
+    "mrp": 699,
+    "price": 499,
+    "category": "Hydration"
+  },
+  {
+    "id": 4,
+    "name": "Macros Nutrition Energy Drink",
+    "flavor": "Tropical Mango",
+    "image": "macros_nutrition_energy_drink_tropical_mango.png",
+    "description": "Get an instant energy boost whenever you need extra focus and endurance. Enriched with performance-supporting ingredients and essential vitamins. Delicious tropical mango flavor keeps you refreshed and energized.",
+    "mrp": 149,
+    "price": 99,
+    "category": "Drinks"
+  },
+  {
+    "id": 5,
+    "name": "Macros Nutrition Granola Protein Crunch",
+    "flavor": "Chocolate",
+    "image": "macros_nutrition_granola_chocolate.png",
+    "description": "A crunchy blend of wholesome oats, protein, and rich chocolate flavor. Provides long-lasting energy and supports healthy snacking habits. Perfect for breakfast, post-workout meals, or on-the-go nutrition.",
+    "mrp": 499,
+    "price": 399,
+    "category": "Healthy Foods"
+  },
+  {
+    "id": 6,
+    "name": "Macros Nutrition Multi Minerals",
+    "flavor": "Unflavored",
+    "image": "macros_nutrition_multi_minerals.png",
+    "description": "Comprehensive mineral support for overall health and wellness. Helps maintain strong bones, proper muscle function, and recovery. Ideal for active individuals seeking balanced daily nutrition.",
+    "mrp": 799,
+    "price": 649,
+    "category": "Vitamins"
+  },
+  {
+    "id": 7,
+    "name": "Macros Nutrition Multivitamin",
+    "flavor": "Unflavored",
+    "image": "macros_nutrition_multi_vitamin.png",
+    "description": "A complete blend of essential vitamins to support everyday health. Helps improve immunity, energy production, and overall wellbeing. Formulated to meet the nutritional needs of active lifestyles.",
+    "mrp": 999,
+    "price": 799,
+    "category": "Vitamins"
+  },
+  {
+    "id": 8,
+    "name": "Macros Nutrition Omega-3 Fish Oil",
+    "flavor": "Unflavored",
+    "image": "macros_nutrition_omega3_fish_oil.png",
+    "description": "Premium fish oil supplement rich in essential Omega-3 fatty acids. Supports heart health, brain function, and joint mobility. An easy addition to your daily wellness and fitness routine.",
+    "mrp": 1199,
+    "price": 899,
+    "category": "Supplements"
+  },
+  {
+    "id": 9,
+    "name": "Macros Nutrition Peanut Butter",
+    "flavor": "Creamy",
+    "image": "macros_nutrition_peanut_butter_creamy.png",
+    "description": "Made from carefully roasted peanuts for a smooth and creamy texture. Provides healthy fats and protein to support an active lifestyle. Perfect for sandwiches, smoothies, or healthy snacking.",
+    "mrp": 449,
+    "price": 349,
+    "category": "Healthy Foods"
+  },
+  {
+    "id": 10,
+    "name": "Macros Nutrition Plant Protein",
+    "flavor": "Chocolate",
+    "image": "macros_nutrition_plant_protein_chocolate.png",
+    "description": "Plant-based protein blend crafted for muscle recovery and daily nutrition. Delivers a complete amino acid profile with a rich chocolate taste. A great choice for vegans and health-conscious individuals.",
+    "mrp": 2799,
+    "price": 2199,
+    "category": "Protein"
+  },
+  {
+    "id": 11,
+    "name": "Macros Nutrition Pre-Workout",
+    "flavor": "Mango",
+    "image": "macros_nutrition_pre_workout_mango.png",
+    "description": "Increase workout focus, endurance, and training intensity. Formulated to support better pumps and sustained energy levels. Refreshing mango flavor makes every workout session more enjoyable.",
+    "mrp": 1999,
+    "price": 1499,
+    "category": "Performance"
+  },
+  {
+    "id": 12,
+    "name": "Macros Nutrition Protein Bar",
+    "flavor": "Cookies & Cream",
+    "image": "macros_nutrition_protein_bar_cookies_and_cream.png",
+    "description": "A convenient high-protein snack designed for active lifestyles. Helps satisfy cravings while supporting recovery and muscle maintenance. Enjoy the classic cookies and cream flavor anytime, anywhere.",
+    "mrp": 149,
+    "price": 99,
+    "category": "Protein Snacks"
+  },
+  {
+    "id": 13,
+    "name": "Macros Nutrition Protein Bar",
+    "flavor": "Hazelnut",
+    "image": "macros_nutrition_protein_bar_hazelnut.png",
+    "description": "Nutritious protein bar with a rich and satisfying hazelnut flavor. Provides balanced nutrition for busy days and post-workout recovery. Perfect for fueling your body on the go.",
+    "mrp": 149,
+    "price": 99,
+    "category": "Protein Snacks"
+  },
+  {
+    "id": 14,
+    "name": "Macros Nutrition Protein Chips",
+    "flavor": "Peri Peri",
+    "image": "macros_nutrition_protein_chips_peri_peri.png",
+    "description": "Crunchy and flavorful protein-packed chips for guilt-free snacking. Offers a spicy peri peri kick without compromising nutrition goals. A smarter alternative to traditional snack options.",
+    "mrp": 129,
+    "price": 89,
+    "category": "Protein Snacks"
+  },
+  {
+    "id": 15,
+    "name": "Macros Nutrition Protein Cookies",
+    "flavor": "Double Chocolate",
+    "image": "macros_nutrition_protein_cookies_double_chocolate.png",
+    "description": "Soft-baked protein cookie loaded with rich chocolate goodness. Provides extra protein while satisfying sweet cravings. Perfect as a post-workout treat or healthy snack option.",
+    "mrp": 149,
+    "price": 99,
+    "category": "Protein Snacks"
+  },
+  {
+    "id": 16,
+    "name": "Macros Nutrition Protein Cookies",
+    "flavor": "Peanut Butter",
+    "image": "macros_nutrition_protein_cookies_peanut_butter.png",
+    "description": "Delicious protein cookie with authentic peanut butter flavor. Combines great taste with functional nutrition and protein support. Ideal for energy, recovery, and everyday snacking.",
+    "mrp": 149,
+    "price": 99,
+    "category": "Protein Snacks"
+  },
+  {
+    "id": 17,
+    "name": "Macros Nutrition Whey Protein Concentrate",
+    "flavor": "Chocolate Fudge",
+    "image": "macros_nutrition_whey_protein_concentrated_chocolate_fudge.png",
+    "description": "Delivers 24g of high-quality protein per serving to support muscle growth. Fast-absorbing formula helps improve recovery after intense workouts. Rich chocolate fudge flavor provides a smooth and satisfying experience.",
+    "mrp": 3299,
+    "price": 2499,
+    "category": "Protein"
+  },
+  {
+    "id": 18,
+    "name": "Macros Nutrition Whey Protein Concentrate",
+    "flavor": "Cookies & Cream",
+    "image": "macros_nutrition_whey_protein_concentrated_cookies_and_cream.png",
+    "description": "Premium whey protein formulated for strength, recovery, and performance. Provides essential amino acids to support lean muscle development. Enjoy the indulgent taste of cookies and cream in every scoop.",
+    "mrp": 3299,
+    "price": 2499,
+    "category": "Protein"
+  },
+  {
+    "id": 19,
+    "name": "Macros Nutrition Whey Protein Concentrate",
+    "flavor": "Mango",
+    "image": "macros_nutrition_whey_protein_concentrated_mango.png",
+    "description": "High-quality whey protein with a refreshing tropical mango flavor. Supports muscle recovery and daily protein requirements. Mixes smoothly and tastes great after every workout.",
+    "mrp": 3299,
+    "price": 2499,
+    "category": "Protein"
+  },
+  {
+    "id": 20,
+    "name": "Macros Nutrition Whey Protein Concentrate",
+    "flavor": "Strawberry",
+    "image": "macros_nutrition_whey_protein_concentrated_strawberry.png",
+    "description": "Protein-rich formula designed to support strength and recovery. Contains essential amino acids to help build lean muscle mass. Refreshing strawberry flavor makes protein supplementation enjoyable.",
+    "mrp": 3299,
+    "price": 2499,
+    "category": "Protein"
+  },
+  {
+    "id": 21,
+    "name": "Macros Nutrition Protein Drink",
+    "flavor": "Chocolate",
+    "image": "macros_nutrition_protein_drink_chocolate.png",
+    "description": "Ready-to-drink protein shake delivering convenient nutrition anytime. Provides quality protein to support muscle recovery and daily fitness goals. Rich chocolate flavor makes healthy nutrition enjoyable.",
+    "mrp": 149,
+    "price": 109,
+    "category": "Drinks"
+  },
+  {
+    "id": 22,
+    "name": "Macros Nutrition Protein Drink",
+    "flavor": "Mango",
+    "image": "macros_nutrition_protein_drink_mango.png",
+    "description": "Refreshing mango-flavored protein beverage with high-quality protein. Helps support recovery and maintain daily protein intake. Perfect for active individuals looking for convenient nutrition.",
+    "mrp": 149,
+    "price": 109,
+    "category": "Drinks"
+  },
+  {
+    "id": 23,
+    "name": "Macros Nutrition Protein Drink",
+    "flavor": "Strawberry",
+    "image": "macros_nutrition_protein_drink_strawberry.png",
+    "description": "Smooth strawberry protein drink formulated for recovery and muscle support. Delivers high-quality protein in a convenient ready-to-drink format. Great for post-workout or on-the-go nutrition.",
+    "mrp": 149,
+    "price": 109,
+    "category": "Drinks"
+  },
+  {
+    "id": 24,
+    "name": "Macros Nutrition Protein Yoghurt",
+    "flavor": "Blueberry",
+    "image": "macros_nutrition_protein_youghurt_blueberry.png",
+    "description": "High-protein yoghurt blended with delicious blueberry flavor. Supports muscle recovery while providing a creamy and satisfying snack. Perfect for healthy eating throughout the day.",
+    "mrp": 129,
+    "price": 89,
+    "category": "Dairy"
+  },
+  {
+    "id": 25,
+    "name": "Macros Nutrition Protein Yoghurt",
+    "flavor": "Mango",
+    "image": "macros_nutrition_protein_youghurt_mango.png",
+    "description": "Creamy mango protein yoghurt enriched with quality protein and probiotics. Supports digestive wellness and daily nutrition goals. A delicious snack for fitness-focused lifestyles.",
+    "mrp": 129,
+    "price": 89,
+    "category": "Dairy"
+  },
+  {
+    "id": 26,
+    "name": "Macros Nutrition Whey Protein Isolate",
+    "flavor": "Chocolate",
+    "image": "macros_nutrition_whey_protein_isolated_chocolate.png",
+    "description": "Ultra-filtered whey isolate delivering high protein with low carbs and fats. Supports lean muscle growth, recovery, and athletic performance. Rich chocolate flavor offers a premium protein experience.",
+    "mrp": 4499,
+    "price": 3499,
+    "category": "Protein"
+  },
+  {
+    "id": 27,
+    "name": "Macros Nutrition Whey Protein Isolate",
+    "flavor": "Strawberry",
+    "image": "macros_nutrition_whey_protein_isolated_strawberry.png",
+    "description": "Premium whey isolate formula designed for fast absorption and recovery. Provides high-quality protein to support lean muscle development. Refreshing strawberry flavor makes every shake enjoyable.",
+    "mrp": 4499,
+    "price": 3499,
+    "category": "Protein"
+  },
+  {
+    "id": 28,
+    "name": "Macros Nutrition Whey Protein Isolate",
+    "flavor": "Vanilla",
+    "image": "macros_nutrition_whey_protein_isolated_vanilla.png",
+    "description": "Fast-absorbing whey isolate formulated for athletes and fitness enthusiasts. Helps support muscle recovery and maintain daily protein intake. Smooth vanilla flavor blends perfectly with shakes and smoothies.",
+    "mrp": 4499,
+    "price": 3499,
+    "category": "Protein"
+  },
+  {
+    "id": 29,
+    "name": "Macros Nutrition Premium Protein Collection",
+    "flavor": "Mixed Flavors",
+    "image": "macros_nutrition_collection_banner.png",
+    "description": "Discover the complete range of Macros Nutrition products designed for performance, recovery, and wellness. From protein powders to healthy snacks, every product is crafted using premium-quality ingredients. Your all-in-one destination for achieving fitness and nutrition goals.",
+    "mrp": 0,
+    "price": 0,
+    "category": "Collection"
+  }
+]

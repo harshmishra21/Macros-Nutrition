@@ -1,0 +1,19 @@
+{
+  "model": {
+    "shapegen": "tencent/Hunyuan3D-2/hunyuan3d-dit-v2-0",
+    "texgen": "tencent/Hunyuan3D-2"
+  },
+  "params": {
+    "caption": "",
+    "steps": 30,
+    "guidance_scale": 5,
+    "seed": 1093526,
+    "octree_resolution": 256,
+    "check_box_rembg": true,
+    "num_chunks": 8000
+  },
+  "number_of_faces": 633788,
+  "number_of_vertices": 167106,
+  "export_file": "whey-tub.glb",
+  "usage": "Place the exported GLB from Hunyuan3D in this folder as whey-tub.glb"
+}
